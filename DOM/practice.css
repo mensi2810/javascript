@@ -1,0 +1,25 @@
+.box{
+    height:100px;
+    width:100px;
+    border:1px solid black;
+    margin: 5px;
+    text-align: center;
+    background-color: pink;
+}
+
+/* style attribute */
+#div{
+      height:100px;
+    width:100px;
+    border:1px solid black;
+    color: white;
+    margin: 5px;
+    text-align: center;
+    background-color: blue;
+}
+.content{
+    color:Red;
+}
+.newclass{
+    background-color: green;
+}
