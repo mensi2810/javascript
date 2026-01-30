@@ -93,4 +93,5 @@ document.querySelector("body").prepend(button);
 
 
 //------------practice task 4-------------
-
+//let para=document.createElement("p");
+para.classList.add("newclass");
